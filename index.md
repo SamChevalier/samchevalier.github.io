@@ -7,7 +7,7 @@ layout: default
 
 I graduated with my PhD from MIT in 2021, and I am currently a Marie Curie Postodoctoral Research Fellow at DTU. In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!)
 
-Iiiiiiiiitttihh recently joined Amazon Robotics as an Applied Scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
+<>Iiiiiiiiitttihh recently joined Amazon Robotics as an Applied Scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
 Contact: schev [@] dtu.dk <br/>
 [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
