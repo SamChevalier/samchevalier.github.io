@@ -7,9 +7,10 @@ layout: default
 
 Iiiiiiiiitttihh recently joined Amazon Robotics as an Applied Scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
-Contact: dclee131 at gmail.com<br/>
-[Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
-[Github profile](https://github.com/dclee131)
+Contact: schev [@] dtu.dk
+[Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
+[Github profile](https://github.com/samchevalier)
+[Pro](https://samchevalier.github.io/docs/Chevalier_CV.pdf)
 
 &nbsp;
 
