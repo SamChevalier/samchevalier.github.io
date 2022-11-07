@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-<img src="/photos/headshot_IEEE.JPG" width="200" align="left" style="margin: 0px 25px 0px 0px">
+<img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 Iiiiiiiiitttihh recently joined Amazon Robotics as an Applied Scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
