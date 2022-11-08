@@ -14,7 +14,6 @@
     {% assign targetname = page.targetname %}
     {% endif %}
 
-    {% capture title %}Redirecting to {{ targetname }}{% endcapture %}
     {% if page.targettitle %}
     {% assign title = page.targettitle %}
     {% endif %}
@@ -35,10 +34,10 @@
     {% if page.message %}
     <p>{{ page.message }}</p>
     {% else %}
-    <p>This document has moved!</p>
+    <p> </p>
     {% endif %}
 
-    <p>Redirecting to <a href="{{ page.target }}">{{ targetname }}</a> in {{ time }} seconds.</p>
+    <p> </p>
 
 </body>
 </html>
