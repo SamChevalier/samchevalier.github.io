@@ -28,7 +28,7 @@ In the fall of 2023, I will be launching my lab at the [University of Vermont](h
 - Machine learning performance verification 
 - Aggregated distributed energy resource dynamics 
 
- If these topics excite you, please reach out me directly at schevali at uvm.com for more information.
+ If these topics excite you, please reach out me directly at **schevali [at] uvm.edu** for more information.
  
 <hr style="height:10px; visibility:hidden;" />
 
