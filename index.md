@@ -12,3 +12,5 @@ Contact: schev [@] dtu.dk <br/>
 [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
 [Github profile](https://github.com/samchevalier)<br/>
 [Pro](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
+
+###<span style="color:blue">**Education**</span>.
