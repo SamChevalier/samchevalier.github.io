@@ -2,16 +2,14 @@
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 ## **Greetings from Denmark!**
-My name is Sam Chealier, and I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU). 
+My name is Sam Chealier, and I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU). My research focuses on
+• designing industry-aware optimization & control strategies for renewable-based power grids,
+• building trustworthy machine learning tools for safety-critical engineering applications,
+• and developing data-driven modeling techniques for the power & energy sectors.
+For more information on my reasearch and background, you can [**download my CV here**](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
 
-My research is on machine learning for power system applications. For more information, you can download my [CV here](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
+In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!) 
 
-I graduated with my PhD from MIT in 2021, and I am currently a Marie Curie Postodoctoral Research Fellow at DTU. In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!) 
-
-
-[Google Scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
-[Github](https://github.com/samchevalier)<br/>
-[Arxiv](http://arxiv.org/a/chevalier_s_1)<br/>
 
 
 ### **Recruitment**
@@ -21,10 +19,7 @@ In the fall of 2023, I will be launching my lab at the University of Vermont. I�
 - Machine learning performance verification 
 - Aggregated distributed energy resource dynamics 
 
-
-### **Links**
-Contact: schev [@] dtu.dk <br/>
-[Sam's CV](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
+###
 [Google Scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
 [Github](https://github.com/samchevalier)<br/>
 [Arxiv](http://arxiv.org/a/chevalier_s_1)<br/>
