@@ -2,22 +2,20 @@
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 ## **Greetings from Denmark!**
-My name is Sam Chealier, and I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU). My research focuses on
-• designing industry-aware optimization & control strategies for renewable-based power grids,
-• building trustworthy machine learning tools for safety-critical engineering applications,
-• and developing data-driven modeling techniques for the power & energy sectors.
+My name is Sam Chealier, and I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU). My research focuses on<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; • designing industry-aware **optimization & control** strategies for renewable-based power grids,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; • building **trustworthy machine learning** tools for safety-critical engineering applications,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; • and developing **data-driven modeling** techniques for the power & energy sectors.<br/>
 For more information on my reasearch and background, you can [**download my CV here**](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
 
-In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!) 
-
-
-
 ### **Recruitment**
-In the fall of 2023, I will be launching my lab at the University of Vermont. I’m looking to build a strong team of mathematical innovators who are passionate about solving problems realted to power and enegy. We will be working on cutting edge power system analysis for the problems. If this excites you, please reach out me directly at schevali at uvm.com for more information. I am recruiting 3 fully funded PHD students with research focused on:
+In the fall of 2023, I will be launching my lab at the [University of Vermont](https://www.uvm.edu/cems/ebe). I’m looking to build a strong team of mathematical innovators who are passionate about solving power and energy realted problems. I am recruiting up to 3 fully funded PhD students with research focused on:
 
 - Network compression and optimization
 - Machine learning performance verification 
 - Aggregated distributed energy resource dynamics 
+
+ If these topics excite you, please reach out me directly at schevali at uvm.com for more information.
 
 ###
 [Google Scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
