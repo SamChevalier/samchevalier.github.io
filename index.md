@@ -13,4 +13,6 @@ Contact: schev [@] dtu.dk <br/>
 [Github profile](https://github.com/samchevalier)<br/>
 [Pro](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
 
-###<span style="color:blue">**Education**</span>.
+### **Education**
+
+
