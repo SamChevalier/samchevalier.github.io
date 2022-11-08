@@ -22,9 +22,9 @@ In the fall of 2023, I will be launching my lab at UVM. I’m looking to build a
 
 - Network compression and optimization
 - Machine learning performance verification 
-- Aggregated distributed energy resource dynamics and inference
+- Aggregated distributed energy resource dynamics
 
- If these topics excite you, please reach out me directly at **schevali [at] uvm.edu** for more information.
+If these topics excite you, please reach out me directly at **schevali [at] uvm.edu** for more information. In your email, please include your CV along with a short explanation about why you are intersted in doing a PhD in electrical engineering.
  
 <hr style="height:10px; visibility:hidden;" />
 
