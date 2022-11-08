@@ -6,11 +6,7 @@ layout: default
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 ## **Greetings from Denmark!**
-My name is Sam Chealier. I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU), where my research focuses on<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; • designing industry-aware **optimization & control** strategies for renewable-based power grids,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; • building **trustworthy machine learning** tools for safety-critical engineering applications,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; • and developing **data-driven modeling** techniques for the power & energy sectors.<br/>
-In the fall of 2023, I will be joining the electrical engineering faculty at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!). For more information on my reasearch and background, you can [**download my CV here**](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/><br/><br/>
+My name is Sam Chealier. I am currently a Marie Currie Postdoctoral Research Fellow at the Technical University of Denmark (DTU), where my research focuses on developing data driven optimization and control strategies for low carbon electrical power ssytems. In the fall of 2023, I will be joining the electrical engineering faculty at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!). For more information on my reasearch and background, you can [**download my CV here**](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/><br/><br/>
 
 <hr style="height:10px; visibility:hidden;" />
 
