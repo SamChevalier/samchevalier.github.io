@@ -2,10 +2,10 @@
 # description: >
 #        Last updated: Nov 2022
 
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Sam Chevalier"                           # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Sam Chevalier"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
