@@ -12,12 +12,12 @@ https://samchevalier.github.io/docs/Chevalier_CV.pdf
 
 https://samchevalier.github.io/docs/Chevalier_CV.pdf
 
+### **Links**
 Contact: schev [@] dtu.dk <br/>
-[Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
-[Github profile](https://github.com/samchevalier)<br/>
-[Arxiv](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
-
-http://arxiv.org/a/chevalier_s_1
+[Sam's CV](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
+[Google Scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
+[Github](https://github.com/samchevalier)<br/>
+[Arxiv](http://arxiv.org/a/chevalier_s_1)<br/>
 
 ### **Education**
 - Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2021)
