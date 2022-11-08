@@ -38,5 +38,3 @@ If these topics excite you, please reach out me directly at **schevali [at] uvm.
 ### **Publications**
 - Please visit my [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ) to see an updated publication list. 
 - All articles are hosted on my [ArXiv](http://arxiv.org/a/chevalier_s_1) page.
-
-
