@@ -5,8 +5,8 @@ layout: default
 ---
 
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
-
-Greetings from Denmark! I am currently a post doctorial research fellow at the Technical University of Denmark. My research is on machine learning for power system applications. I am currently a Marie Currie. For more information, you can download my [CV here](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
+## **Greetings from Denmark!**
+I am currently a post doctorial research fellow at the Technical University of Denmark. My research is on machine learning for power system applications. I am currently a Marie Currie. For more information, you can download my [CV here](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
 
 I graduated with my PhD from MIT in 2021, and I am currently a Marie Curie Postodoctoral Research Fellow at DTU. In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!) 
 
