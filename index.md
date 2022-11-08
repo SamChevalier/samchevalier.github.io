@@ -1,3 +1,7 @@
+---
+title: About
+layout: default
+---
 
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
