@@ -6,11 +6,15 @@ layout: default
 
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
-I graduated with my PhD from MIT in 2021, and I am currently a Marie Curie Postodoctoral Research Fellow at DTU. In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!)
+Greetings from Denmark! I am currently a post doctorial research fellow at the Technical University of Denmark. My research is on machine learning for power system applications. I am currently a Marie Currie. For more information, you can download my [CV here](https://samchevalier.github.io/docs/Chevalier_CV.pdf).<br/>
 
-https://samchevalier.github.io/docs/Chevalier_CV.pdf
+I graduated with my PhD from MIT in 2021, and I am currently a Marie Curie Postodoctoral Research Fellow at DTU. In the fall of 2023, I will join the electrical engineering faculty at the University if Vermont (my Alma Mater!) 
 
-https://samchevalier.github.io/docs/Chevalier_CV.pdf
+
+[Google Scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ)<br/>
+[Github](https://github.com/samchevalier)<br/>
+[Arxiv](http://arxiv.org/a/chevalier_s_1)<br/>
+
 
 ### **Recruitment**
 In the fall of 2023, I will be launching my lab at the University of Vermont. I’m looking to build a strong team of mathematical innovators who are passionate about solving problems realted to power and enegy. We will be working on cutting edge power system analysis for the problems. If this excites you, please reach out me directly at schevali at uvm.com for more information. I am recruiting 3 fully funded PHD students with research focused on:
