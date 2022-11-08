@@ -12,6 +12,14 @@ https://samchevalier.github.io/docs/Chevalier_CV.pdf
 
 https://samchevalier.github.io/docs/Chevalier_CV.pdf
 
+### **Recruitment**
+In the fall of 2023, I will be launching my lab at the University of Vermont. I’m looking to build a strong team of mathematical innovators who are passionate about solving problems realted to power and enegy. We will be working on cutting edge power system analysis for the problems. If this excites you, please reach out me directly at schevali at uvm.com for more information. I am recruiting 3 fully funded PHD students with research focused on:
+
+- Network compression and optimization
+- Machine learning performance verification 
+- Aggregated distributed energy resource dynamics 
+
+
 ### **Links**
 Contact: schev [@] dtu.dk <br/>
 [Sam's CV](https://samchevalier.github.io/docs/Chevalier_CV.pdf)<br/>
@@ -25,6 +33,7 @@ Contact: schev [@] dtu.dk <br/>
 - B.S. in Electrical Engineering, University of Vermont (2011 - 2015)
 
 ### **Publications**
-Please visit my [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ) to see an updated publication list. All articles are hosted on my [ArXiv](http://arxiv.org/a/chevalier_s_1) page.
+- Please visit my [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ) to see an updated publication list. 
+- All articles are hosted on my [ArXiv](http://arxiv.org/a/chevalier_s_1) page.
 
 
