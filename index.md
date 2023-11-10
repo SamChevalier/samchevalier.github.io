@@ -5,8 +5,8 @@ layout: default
 
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
-## **Greetings from Denmark!**
-My name is Sam Chealier. I am currently a [Marie Curie Postdoctoral Research Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2021) at the [Technical University of Denmark](https://www.cee.elektro.dtu.dk/) (DTU), where my research with [Spyros Chatzivasileiadis](http://www.chatziva.com/) focuses on developing data driven optimization and control strategies for low carbon electrical power sytems. Prior to DTU, I recieved my PhD ('21) from the [mechanical engineering department at MIT](https://meche.mit.edu/). In the fall of 2023, I will join the electrical engineering faculty at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!), where I am currently a Research Affiliate. For more information, you can [<ins>**download my CV here**</ins>](https://samchevalier.github.io/docs/Chevalier_CV.pdf).
+## **Greetings from Vermont!**
+My name is Sam Chealier. I am currently an assistant professor of electrical engineering at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!). Until fall of 2023, I was a [Marie Curie Postdoctoral Research Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2021) at the [Technical University of Denmark](https://www.cee.elektro.dtu.dk/) (DTU), where my research with [Spyros Chatzivasileiadis](http://www.chatziva.com/) focused on developing data driven optimization and control strategies for low carbon electrical power sytems. Prior to DTU, I recieved my PhD ('21) from the [mechanical engineering department at MIT](https://meche.mit.edu/). For more information, you can [<ins>**download my CV here**</ins>](https://samchevalier.github.io/docs/Chevalier_CV.pdf).
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -18,7 +18,7 @@ My name is Sam Chealier. I am currently a [Marie Curie Postdoctoral Research Fel
 <hr style="height:10px; visibility:hidden;" />
 
 ### **★ Lab Recruitment ★**
-In the fall of 2023, I will be launching my lab at UVM. I’m looking to build a strong team of mathematical innovators who are passionate about solving real-world power and energy system problems. I am recruiting up to 3 fully funded PhD students whose research will broadly focus on
+In the fall of 2023, I launched my lab at UVM. I’m looking to build a strong team of mathematical innovators who are passionate about solving real-world power and energy system problems. I am recruiting fully funded PhD students whose research will broadly focus on
 
 - Network compression and optimization
 - Machine learning performance verification 
