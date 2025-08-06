@@ -1,16 +1,38 @@
 # data/people.yml
-- name: Jane Doe
-  role: PhD Student
+- name: Sam Chevalier
+  role: Assistant Professor (Lab Director)
   img: photos/sam.jpg
-  website: https://janedoe.com
+  website: https://samchevalier.github.io/ (don't get stuck in a loop!!!)
   bio: Works on optimization in power systems.
 
-- name: John Smith
-  role: Postdoctoral Fellow
-  img: photos/sam.jpg
-  bio: Focuses on nonlinear control and estimation.
-
-- name: Alice Li
-  role: MS Student
-  img: photos/sam.jpg
+- name: Saba Rafiei
+  role: PhD Student
+  img: photos/saba.jpg
   website: https://aliceli.dev
+  bio: Saba is...
+
+- name: Eren Tekeler
+  role: PhD Student
+  img: photos/eren.jpg
+  bio: Eren is a ... working on...
+
+- name: Omid Mokhtari (Co-Advised with Mads Almassalkhi)
+  role: PhD Student
+  img: photos/omid.jpg
+  bio: Omid is a ... working on...
+
+- name: Ben Drillings (Co-Advised with Amrit Pandey)
+  role: PhD Student
+  img: photos/ben.jpg
+  bio: Ben is a ... working on...
+
+- name: William Wheeler (Co-Advised with Amrit Pandey)
+  role: Postdoc
+  img: photos/will.jpg
+  bio: Will is...
+
+- name: Duncan Starkenburg
+  role: Undergraduate Researcher
+  img: photos/duncan.jpg
+  bio: Duncan is...
+  
