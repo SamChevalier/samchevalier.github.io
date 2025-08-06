@@ -1,0 +1,16 @@
+# data/students.yml
+- name: Jane Doe
+  role: PhD Student
+  img: photos/sam.jpg
+  website: https://janedoe.com
+  bio: Works on optimization in power systems.
+
+- name: John Smith
+  role: Postdoctoral Fellow
+  img: photos/sam.jpg
+  bio: Focuses on nonlinear control and estimation.
+
+- name: Alice Li
+  role: MS Student
+  img: photos/sam.jpg
+  website: https://aliceli.dev
