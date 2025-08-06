@@ -18,6 +18,7 @@ title: Lab Group
         <p><a href="{{ person.website }}" target="_blank">Website</a></p>
       {% endif %}
     </div>
+    ---
   {% endfor %}
 </div>
 
