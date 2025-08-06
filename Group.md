@@ -8,7 +8,7 @@ title: Lab Group
 <div class="lab-grid">
   {% for person in site.data.people %}
     <div class="lab-card">
-      <img src="{{ person.img }}" alt="{{ person.name }}">
+      <img src="{{ person.img }}" width="200" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <h3>{{ person.name }}</h3>
       <p class="role">{{ person.role }}</p>
       {% if person.bio %}
