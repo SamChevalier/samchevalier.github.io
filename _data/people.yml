@@ -1,7 +1,7 @@
 # data/people.yml
 - name: Sam Chevalier
   role: Assistant Professor (Lab Director)
-  img: photos/sam.jpg
+  img: photos/headshot_IEEE.jpg
   website: https://samchevalier.github.io/
   bio: Works on optimization in power systems.
 
