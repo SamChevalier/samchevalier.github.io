@@ -1,4 +1,4 @@
-# data/students.yml
+# data/people.yml
 - name: Jane Doe
   role: PhD Student
   img: photos/sam.jpg
