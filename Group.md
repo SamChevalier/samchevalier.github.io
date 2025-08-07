@@ -14,6 +14,9 @@ title: Lab Group
       {% if person.bio %}
         <p class="bio">{{ person.bio }}</p>
       {% endif %}
+      {% if person.contact %}
+        <p class="contact">{{ person.contact }}</p>
+      {% endif %}
       {% if person.website %}
         <p><a href="{{ person.website }}" target="_blank">Website</a></p>
       {% endif %}
