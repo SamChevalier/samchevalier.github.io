@@ -1,5 +1,5 @@
 # data/alumni.yml
 - name: Muhammad Adeel Arif
   img: photos/adeel.jpeg
-  bio: Adeel graduated with his MS in Electrical Engineering from UVM in the spring of 2025. He now works at **Dominion Energy** as a DERMS engineer.
+  bio: Adeel graduated with his MS in Electrical Engineering from UVM in the spring of 2025. He now works at <strong>Dominion Energy</strong> as a DERMS engineer.
   contact: adeelarif.vt@gmail.com
