@@ -4,7 +4,6 @@ title: Lab Group
 ---
 
 # Lab Members
-# tt
 
 <div class="lab-grid">
   {% for person in site.data.people %}
