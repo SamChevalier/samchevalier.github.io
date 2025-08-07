@@ -11,6 +11,9 @@ title: Lab Group
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <h3>{{ person.name }}</h3>
       <p class="role">{{ person.role }}</p>
+      {% if person.topic %}
+        <p class="topic">{{ person.topic }}</p>
+      {% endif %}
       {% if person.bio %}
         <p class="bio">{{ person.bio }}</p>
       {% endif %}
