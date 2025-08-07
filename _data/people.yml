@@ -8,7 +8,7 @@
   role: PhD Student (joined: 2025)
   topic: Global optimization methods on GPUs; rural electrifictaion 
   contact: Benjamin.Drillings@uvm.edu
-  img: photos/ben.jpg
+  img: photos/ben.jpeg
 
 - name: William Wheeler (Co-Advised with Amrit Pandey)
   role: Postdoc (joined: 2025)
@@ -20,19 +20,19 @@
   role: PhD Student (joined: 2024)
   topic: Neural network verification
   contact: Eren.Tekeler@uvm.edu
-  img: photos/eren.jpg
+  img: photos/eren.jpeg
 
 - name: Peter Fisher
   role: MS Student (joined: 2024)
   topic: Distribution grid resilience
   contact: Peter.A.Fisher@uvm.edu
-  img: photos/peter.jpg
+  img: photos/peter.jpeg
 
 - name: Duncan Starkenburg
   role: Undergraduate Researcher (joined: 2024)
   topic: Neural network verification
   contact: https://github.com/dstarkenburg
-  img: photos/duncan.jpg
+  img: photos/duncan.jpeg
 
 - name: Saba Rafiei
   role: PhD Student (joined: 2023)
@@ -44,5 +44,5 @@
   role: PhD Student (joined: 2023)
   topic: Network reduction
   contact: Omid.Mokhtari@uvm.edu
-  img: photos/omid.jpg
+  img: photos/omid.jpeg
   
