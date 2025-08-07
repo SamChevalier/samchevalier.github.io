@@ -13,7 +13,7 @@ title: Lab Group
         <h3 style="font-weight: bold;">{{ person.name }}</h3>
         <p class="role" style="margin: 0 0 2px 0;">{{ person.role }}</p>
         {% if person.bio %}
-          <p class="bio" style="margin: 0 0 2px 0;">{{ person.bio }}</p>
+          <p class="bio" style="margin: 0 0 2px 0;">{{ <strong>Research:</strong>strong> person.bio }}</p>
         {% endif %}
         {% if person.contact %}
           <p class="contact" style="margin: 0 0 2px 0;">{{ person.contact }}</p>
