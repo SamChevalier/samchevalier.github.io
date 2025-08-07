@@ -3,33 +3,42 @@
   role: Assistant Professor (Lab Director)
   img: photos/headshot_IEEE.jpg
   website: https://samchevalier.github.io/
-  bio: Works on optimization in power systems.
-
-- name: Saba Rafiei
-  role: PhD Student
-  img: photos/saba.jpg
-  website: https://aliceli.dev
-  bio: Saba is...
-
-- name: Eren Tekeler
-  role: PhD Student
-  img: photos/eren.jpg
-  bio: Eren is a ... working on...
-
-- name: Omid Mokhtari (Co-Advised with Mads Almassalkhi)
-  role: PhD Student
-  img: photos/omid.jpg
-  bio: Omid is a ... working on...
+  bio: Assistant Professoru
 
 - name: Ben Drillings (Co-Advised with Amrit Pandey)
-  role: PhD Student
+  role: PhD Student  (joined: 2025)
+  topic: Global optimization methods on GPUs; rural electrifictaion 
+  contact: Benjamin.Drillings@uvm.edu
   img: photos/ben.jpg
-  bio: Ben is a ... working on...
 
 - name: William Wheeler (Co-Advised with Amrit Pandey)
-  role: Postdoc
+  role: Postdoc (joined: 2025)
+  topic: Network robustness; rural electrification 
+  contact: William.Wheeler@uvm.edu
   img: photos/will.jpg
-  bio: Will is...
+
+- name: Eren Tekeler
+  role: PhD Student (joined: 2024)
+  topic: Neural Network verification
+  img: photos/eren.jpg
+  website: https://aliceli.dev
+
+- name: Peter Fisher
+  role: MS Student (joined: 2024)
+  topic: Distribution grid 
+  contact: Peter.A.Fisher@uvm.edu
+  img: photos/eren.jpg
+
+- name: Saba Rafiei
+  role: PhD Student (joined: 2023)
+  topic: GPU-based optimization; Neural Network verification
+  img: photos/saba.jpg
+  website: https://aliceli.dev
+
+- name: Omid Mokhtari (Co-Advised with Mads Almassalkhi)
+  role: PhD Student (joined: 2023)
+  topic: Network reduction
+  img: photos/omid.jpg
 
 - name: Duncan Starkenburg
   role: Undergraduate Researcher
