@@ -7,7 +7,7 @@ title: Lab Group
 
 <div class="lab-grid">
   {% for person in site.data.people %}
-    <div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="display: flex; align-items: flex-start; gap: 10px;">
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <div style="flex: 1;">
         <h3>{{ person.name }}</h3>
