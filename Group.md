@@ -11,15 +11,15 @@ title: Lab Group
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <div style="flex: 1;">
         <h3>{{ person.name }}</h3>
-        <p class="role" style="margin: 0 0 4px 0;">{{ person.role }}</p>
+        <p class="role" style="margin: 0 0 3px 0;">{{ person.role }}</p>
         {% if person.bio %}
-          <p class="bio" style="margin: 0 0 4px 0;">{{ person.bio }}</p>
+          <p class="bio" style="margin: 0 0 3px 0;">{{ person.bio }}</p>
         {% endif %}
         {% if person.contact %}
-          <p class="contact" style="margin: 0 0 4px 0;">{{ person.contact }}</p>
+          <p class="contact" style="margin: 0 0 3px 0;">{{ person.contact }}</p>
         {% endif %}
         {% if person.website %}
-          <p style="margin: 0 0 4px 0;"><a href="{{ person.website }}" target="_blank">Website</a></p>
+          <p style="margin: 0 0 3px 0;"><a href="{{ person.website }}" target="_blank">Website</a></p>
         {% endif %}
       </div>
     </div>
@@ -28,6 +28,7 @@ title: Lab Group
   {% endfor %}
 </div>
 
+<br>
 # Group Alumni
 
 <div class="lab-grid">
@@ -36,15 +37,15 @@ title: Lab Group
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <div style="flex: 1;">
         <h3>{{ person.name }}</h3>
-        <p class="role">{{ person.role }}</p>
+        <p class="role" style="margin: 0 0 3px 0;">{{ person.role }}</p>
         {% if person.bio %}
-          <p class="bio">{{ person.bio }}</p>
+          <p class="bio" style="margin: 0 0 3px 0;">{{ person.bio }}</p>
         {% endif %}
         {% if person.contact %}
-          <p class="contact">{{ person.contact }}</p>
+          <p class="contact" style="margin: 0 0 3px 0;">{{ person.contact }}</p>
         {% endif %}
         {% if person.website %}
-          <p><a href="{{ person.website }}" target="_blank">Website</a></p>
+          <p style="margin: 0 0 3px 0;"><a href="{{ person.website }}" target="_blank">Website</a></p>
         {% endif %}
       </div>
     </div>
