@@ -1,12 +1,11 @@
 # data/people.yml
 - name: Sam Chevalier
   role: Assistant Professor (Lab Director)
+  contact: Samuel.Chevalier@uvm.edu
   img: photos/headshot_IEEE.jpg
-  website: https://samchevalier.github.io/
-  bio: Assistant Professoru
 
 - name: Ben Drillings (Co-Advised with Amrit Pandey)
-  role: PhD Student  (joined: 2025)
+  role: PhD Student (joined: 2025)
   topic: Global optimization methods on GPUs; rural electrifictaion 
   contact: Benjamin.Drillings@uvm.edu
   img: photos/ben.jpg
@@ -19,29 +18,31 @@
 
 - name: Eren Tekeler
   role: PhD Student (joined: 2024)
-  topic: Neural Network verification
+  topic: Neural network verification
+  contact: Eren.Tekeler@uvm.edu
   img: photos/eren.jpg
-  website: https://aliceli.dev
 
 - name: Peter Fisher
   role: MS Student (joined: 2024)
-  topic: Distribution grid 
+  topic: Distribution grid resilience
   contact: Peter.A.Fisher@uvm.edu
-  img: photos/eren.jpg
+  img: photos/peter.jpg
+
+- name: Duncan Starkenburg
+  role: Undergraduate Researcher (joined: 2024)
+  topic: Neural network verification
+  contact: https://github.com/dstarkenburg
+  img: photos/duncan.jpg
 
 - name: Saba Rafiei
   role: PhD Student (joined: 2023)
-  topic: GPU-based optimization; Neural Network verification
+  topic: GPU-based optimization; neural network verification
+  contact: Seide-Saba.Rafiei@uvm.edu
   img: photos/saba.jpg
-  website: https://aliceli.dev
 
 - name: Omid Mokhtari (Co-Advised with Mads Almassalkhi)
   role: PhD Student (joined: 2023)
   topic: Network reduction
+  contact: Omid.Mokhtari@uvm.edu
   img: photos/omid.jpg
-
-- name: Duncan Starkenburg
-  role: Undergraduate Researcher
-  img: photos/duncan.jpg
-  bio: Duncan is...
   
