@@ -4,44 +4,44 @@
   contact: Samuel.Chevalier@uvm.edu
   img: photos/sam.jpg
 
-- name: Ben Drillings (Co-Advised with Amrit Pandey)
-  role: PhD Student (joined 2025)
-  bio: Global optimization methods on GPUs; rural electrifictaion 
+- name: Ben Drillings
+  role: PhD Student since 2025 (Co-Advised with Amrit Pandey)
+  bio: GPU-based global optimization methods; rural electrifictaion 
   contact: Benjamin.Drillings@uvm.edu
   img: photos/ben.jpeg
 
-- name: William Wheeler (Co-Advised with Amrit Pandey)
-  role: Postdoc (joined 2025)
+- name: William Wheeler
+  role: Postdoc since 2025 (Co-Advised with Amrit Pandey)
   bio: Network robustness; rural electrification 
   contact: William.Wheeler@uvm.edu
   img: photos/will.jpg
 
 - name: Eren Tekeler
-  role: PhD Student (joined 2024)
+  role: PhD Student since 2024
   bio: Neural network verification
   contact: Eren.Tekeler@uvm.edu
   img: photos/eren.jpeg
 
 - name: Peter Fisher
-  role: MS Student (joined 2024)
+  role: MS Student since 2024
   bio: Distribution grid resilience
   contact: Peter.A.Fisher@uvm.edu
   img: photos/peter.jpeg
 
 - name: Duncan Starkenburg
-  role: Undergraduate Researcher (joined 2024)
+  role: Undergraduate Researcher since 2024
   bio: Neural network verification
   contact: https://github.com/dstarkenburg
   img: photos/duncan.jpeg
 
 - name: Saba Rafiei
-  role: PhD Student (joined 2023)
+  role: PhD Student since 2023
   bio: GPU-based optimization; neural network verification
   contact: Seide-Saba.Rafiei@uvm.edu
   img: photos/saba.jpeg
 
-- name: Omid Mokhtari (Co-Advised with Mads Almassalkhi)
-  role: PhD Student (joined 2023)
+- name: Omid Mokhtari
+  role: PhD Student since 2023 (Co-Advised with Mads Almassalkhi)
   bio: Network reduction
   contact: Omid.Mokhtari@uvm.edu
   img: photos/omid.jpeg
