@@ -1,6 +1,6 @@
 ---
 layout: forward
-title: GitHub
+title: Git
 target: https://github.com/SamChevalier
 targettitle:
 targetname: 
