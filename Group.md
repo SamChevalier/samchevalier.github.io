@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Group
+title: Group
 ---
 
 # Lab Members
