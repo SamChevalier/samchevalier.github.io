@@ -39,8 +39,6 @@ If these topics excite you, please reach out to me directly at **schevali [at] u
 - Please visit my [Google scholar](https://scholar.google.com/citations?user=DIPw37cAAAAJ) to see an updated publication list. 
 - All articles are hosted on my [ArXiv](http://arxiv.org/a/chevalier_s_1) page.
 
-<img src="/photos/uvm.png" width="600" align="center">
-
 <p align="center">
   <img src="/photos/uvm.png" width="1000">
 </p>
