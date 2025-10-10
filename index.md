@@ -40,3 +40,7 @@ If these topics excite you, please reach out to me directly at **schevali [at] u
 - All articles are hosted on my [ArXiv](http://arxiv.org/a/chevalier_s_1) page.
 
 <img src="/photos/uvm.png" width="600" align="center">
+
+<p align="center">
+  <img src="/photos/uvm.png" width="1000">
+</p>
