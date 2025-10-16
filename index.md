@@ -10,7 +10,7 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/photos/shrew.png).
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Research themes**
-- designing industry-aware **optimization & control** strategies for renewable-based power grids<br/>
+- designing industry-relevant **optimization & control** strategies for renewable-infused power grids<br/>
 - building **trustworthy machine learning** tools for safety-critical engineering applications<br/>
 - developing **data-driven modeling** techniques for the power & energy sectors<br/>
 
