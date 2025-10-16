@@ -11,12 +11,14 @@ Some are mathematical. Some are pseudomathematical.
 ### Post 1: When does a relaxation hurt?
 `Post Date: 10/16/25`
 
-We call 
+We call the problem
 
 $$
 \begin{align}
 \min & f(x)\\
 {\rm s.t.} & f_1(x) \le 0\\
-{\rm s.t.} & f_2(x) \le 0\\
+           & f_2(x) \le 0\\
 \end{align}
 $$ 
+
+a *constrained* optimization problem. 
