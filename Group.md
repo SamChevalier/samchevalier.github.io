@@ -11,7 +11,7 @@ title: Group
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <div style="flex: 1;">
         {% if person.name == "Sam Chevalier" %}
-          <h3 style="font-weight: bold; margin-bottom: 4px;"><a href="https://samchevalier.github.io/">{Sam Chevalier}</a></h3>
+          <h3 style="font-weight: bold; margin-bottom: 4px;"><a href="https://samchevalier.github.io/">Sam Chevalier</a></h3>
         {% else %}
           <h3 style="font-weight: bold; margin-bottom: 4px;">{{ person.name }}</h3>
         {% endif %}
