@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ★Ideas★
+title: Ideas
 ---
 
 # A running list of ideas.
