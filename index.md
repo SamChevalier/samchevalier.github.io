@@ -17,13 +17,7 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/photos/shrew.png).
 <hr style="height:10px; visibility:hidden;" />
 
 ### **★ Lab Recruitment ★**
-In the fall of 2023, I launched my lab at UVM. I’m looking to build a strong team of mathematical innovators who are passionate about solving real-world power and energy system problems. I am recruiting fully funded PhD students whose research will broadly focus on
-
-- Network compression and optimization
-- Machine learning performance verification 
-- Aggregated distributed energy resource dynamics
-
-If these topics excite you, please reach out to me directly at **schevali [at] uvm.edu** for more information. In your email, please include your CV along with a short explanation about why you are interested in doing a PhD in electrical engineering.
+In the fall of 2023, I launched my lab at UVM. I’m looking to build and maintain a strong team of fully funded mathematical innovators who are passionate about solving real-world (i) power grid, (ii) network optimization, and (iii) ML verification problems. If these topics excite you, please reach out to me directly at **schevali [at] uvm.edu** for more information. In your email, please include your CV along with a short explanation about why you are interested in doing a PhD in electrical engineering.
  
 <hr style="height:10px; visibility:hidden;" />
 
