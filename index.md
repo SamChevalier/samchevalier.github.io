@@ -28,9 +28,9 @@ If these topics excite you, please reach out to me directly at **schevali [at] u
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Education**
-- Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2021)
-- M.S. in Electrical Engineering, University of Vermont (2015 - 2016)
-- B.S. in Electrical Engineering, University of Vermont (2011 - 2015)
+- Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2021). [**Thesis**](https://samchevalier.github.io/docs/chevalier-phd-meche-2021.pdf).
+- M.S. in Electrical Engineering, University of Vermont (2015 - 2016). [**Thesis**](https://samchevalier.github.io/docs/Chevalier_Thesis_Revision.pdf).
+- B.S. in Electrical Engineering, University of Vermont (2011 - 2015). [**Thesis**](https://samchevalier.github.io/photos/sam_pv.png).
 
 <hr style="height:10px; visibility:hidden;" />
 
