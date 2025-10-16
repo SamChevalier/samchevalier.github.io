@@ -10,7 +10,11 @@ title: Group
     <div style="display: flex; align-items: flex-start; gap: 10px;">
       <img src="{{ person.img }}" width="100" align="left" style="margin: 0px 25px 0px 0px" alt="{{ person.name }}">
       <div style="flex: 1;">
-        <h3 style="font-weight: bold; margin-bottom: 4px;">{{ person.name }}</h3>
+        {% if person.name == "Sam Chevalier" %}
+          <h3 style="font-weight: bold; margin-bottom: 4px;"><a href="https://samchevalier.github.io/">{Sam Chevalier}</a></h3>
+        {% else %}
+          <h3 style="font-weight: bold; margin-bottom: 4px;">{{ person.name }}</h3>
+        {% endif %}
         <p class="role" style="margin: 0 0 2px 0;">{{ person.role }}</p>
         {% if person.bio %}
           <p class="bio" style="margin: 0 0 2px 0;"><strong>Research:</strong> {{ person.bio }}</p>
