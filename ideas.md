@@ -14,7 +14,9 @@ Some are mathematical. Some are pseudomathematical.
 We call 
 
 $$
-\min f(x)
+\begin{align}
+\min & f(x)\\
+{\rm s.t.} & f_1(x) \le 0\\
+{\rm s.t.} & f_2(x) \le 0\\
+\end{align}
 $$ 
-
-${\rm s.t.}, f_1(x)<0, f_2(x)<0$ a 
