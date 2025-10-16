@@ -5,7 +5,7 @@ layout: default
 <img src="/photos/headshot_IEEE.jpg" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 ## **Greetings from Vermont!**
-My name is [**Sam Chevalier**](https://samchevalier.github.io/photos/shrew.png). I am an assistant professor of [electrical engineering](https://www.win.tue.nl/~wscor/woeginger/P-versus-NP.htm) and an affiliate of the [Complex Systems Institutue](https://vermontcomplexsystems.org/) at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!), where I run the **Grid Verification** Lab. We focus on problems at the intersection power grid optimization and machine learning verification. Until fall of 2023, I was a [Marie Curie Postdoctoral Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2021) at the [Technical University of Denmark](https://www.cee.elektro.dtu.dk/) (DTU) with [Spyros Chatzivasileiadis](http://www.chatziva.com/). Prior to DTU, I recieved my PhD ('21) from the [mechanical engineering department at MIT](https://meche.mit.edu/). For more information, [<ins>**download my CV**</ins>](https://samchevalier.github.io/docs/Chevalier_CV.pdf).
+My name is [**Sam Chevalier**](https://samchevalier.github.io/photos/shrew.png). I am an assistant professor of [electrical engineering](https://www.win.tue.nl/~wscor/woeginger/P-versus-NP.htm) and an affiliate of the [Complex Systems Institutue](https://vermontcomplexsystems.org/) at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my Alma Mater!) where I run the **Grid Verification** Lab. We focus on problems at the intersection power grid optimization and machine learning verification. Until fall of 2023, I was a [Marie Curie Postdoctoral Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2021) at the [Technical University of Denmark](https://www.cee.elektro.dtu.dk/) (DTU) with [Spyros Chatzivasileiadis](http://www.chatziva.com/). Prior to DTU, I recieved my PhD ('21) from the [mechanical engineering department at MIT](https://meche.mit.edu/). For more information, [<ins>**download my CV**</ins>](https://samchevalier.github.io/docs/Chevalier_CV.pdf).
 
 <hr style="height:10px; visibility:hidden;" />
 
@@ -17,7 +17,7 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/photos/shrew.png).
 <hr style="height:10px; visibility:hidden;" />
 
 ### **★ Lab Recruitment ★**
-In the fall of 2023, I launched my lab at UVM. I’m looking to build and maintain a strong team of fully funded mathematical innovators who are passionate about solving real-world (i) power grid, (ii) network optimization, and (iii) ML verification problems. If these topics excite you, please reach out to me directly at **schevali [at] uvm.edu** for more information. In your email, please include your CV along with a short explanation about why you are interested in doing a PhD in electrical engineering.
+In the fall of 2023, I launched my lab at UVM. I’m looking to build and maintain a strong team of fully funded mathematical innovators who are passionate about solving real-world (i) power grid, (ii) network optimization, and (iii) ML verification problems. If these topics excite you, reach out to me at **schevali [at] uvm.edu**. In your email, please include your CV along with a short explanation about why you are interested in doing a PhD in electrical engineering.
  
 <hr style="height:10px; visibility:hidden;" />
 
