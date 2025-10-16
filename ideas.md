@@ -21,4 +21,4 @@ $$
 \end{align}
 $$ 
 
-a *constrained* optimization problem. 
+a *constrained* optimization problem. If nonconvexity is present in this problem, we may take a "convex relaxation" of the problem. The resulting convex relaxation 
