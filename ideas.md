@@ -14,11 +14,13 @@ Some are mathematical. Some are pseudomathematical.
 We call the problem
 
 $$
-\begin{align}\label{eq:opt}
+\begin{equation}\label{eq:opt}
+\begin{aligned}
 \min \quad & f(x)\\
 {\rm s.t.} \quad & f_1(x) \le 0\\
                  & f_2(x) \le 0\\
-\end{align}
+\end{aligned}
+\end{equation}
 $$ 
 
 a *constrained* optimization problem. If nonconvexity is present in this problem, we may take a "convex relaxation" of the problem. The resulting convex relaxation solution will necessarily lower bound the original optimization problem.
