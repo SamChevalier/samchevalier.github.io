@@ -6,7 +6,7 @@ title: ??
 
 # A running list of questions. Established 10/25.
 
-Some questions are mathematical. Some are pseudomathematical. All end with a specific research question.
+Some questions are mathematical. Some are pseudomathematical. All posts end with a specific research question.
 
 ***
 
