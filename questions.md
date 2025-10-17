@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "???"
 ---
 {% include mathjax-config.html %}
 
