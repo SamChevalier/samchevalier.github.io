@@ -10,7 +10,7 @@ Some ideas are mathematical. Some are pseudomathematical. All end with an "inter
 
 ***
 
-### **Idea 1: When relaxation hurts (instead of helps)**
+### **Idea #1: When constraint relaxation hurts (instead of helps)**
 `Post Date: 10/16/25`
 
 We call the problem
