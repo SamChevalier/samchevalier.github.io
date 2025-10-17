@@ -8,7 +8,7 @@ title: Ideas
 
 Some are mathematical. Some are pseudomathematical.
 
-### **Post 1: When mathematical relaxation hurts (instead of helps)**
+### **Idea 1: When relaxation hurts (instead of helps)**
 `Post Date: 10/16/25`
 
 We call the problem
