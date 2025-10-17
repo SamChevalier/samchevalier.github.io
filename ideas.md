@@ -27,4 +27,4 @@ a *constrained* optimization problem. If nonconvexity is present in this problem
 
 Another valid relaxation is to *drop a constraint entirely* (e.g., $f_2(x)$). In this case, the relaxation will still result in a valid lower bound of the original problem. 
 
-Sometimes in life,  
+Sometimes in life, we drop constraints. For example, this post was inspired by the problem of parking at UVM. I am a new faculty member, so I park far from my office in Billings. This is a hard constraint which causes me to lose a lot of time walk (or long boarding) acorss campus.
