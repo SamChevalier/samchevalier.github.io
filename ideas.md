@@ -4,7 +4,7 @@ title: Ideas
 ---
 {% include mathjax-config.html %}
 
-# A running list of ideas. Established 10/25.
+# A running blog of ideas. Established 10/25.
 
 Some ideas are mathematical. Some are pseudomathematical. All end with an "intersting" research question.
 
