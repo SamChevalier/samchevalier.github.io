@@ -8,7 +8,7 @@ title: Ideas
 
 Some are mathematical. Some are pseudomathematical.
 
-### Post 1: When does a relaxation hurt?
+### **Post 1: When does a relaxation hurt?**
 `Post Date: 10/16/25`
 
 We call the problem
