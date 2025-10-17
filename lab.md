@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Group
+title: Lab
 ---
 
-# Lab Members
+# Lab Group Members
 
 <div class="lab-grid">
   {% for person in site.data.people %}
