@@ -4,13 +4,13 @@ title: Ideas
 ---
 {% include mathjax-config.html %}
 
-# A running blog of ideas. Established 10/25.
+# A running list of questions. Established 10/25.
 
-Some ideas are mathematical. Some are pseudomathematical. All end with an "intersting" research question.
+Some questions are mathematical. Some are pseudomathematical. All end with a specific research question.
 
 ***
 
-### **Idea #1: When constraint relaxation hurts (instead of helps)**
+### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 `Post Date: 10/16/25`
 
 We call the problem
