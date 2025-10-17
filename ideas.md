@@ -37,6 +37,6 @@ It seems, therefore, that dropping a constraint will probably make me less happy
 
 To resolve my problem mathematically, I think I need to admit that there are "latent" constraints that I am not enforcing, nor needing to enfocrce, when I park across campus (e.g., daily step count, human interaction, etc.). When I drop a constraint, these latent constraints become violated, and my happiness pays the price.
 
-`Research question: when does mathematical relaxation (i.e., constraint dropping) lead to worse, and not better, system performance?`
+`Research question: in single-operator/agent systems, when does mathematical relaxation (i.e., constraint dropping) lead to worse, and not better, system performance?`
 
 Here's to walking.
