@@ -8,6 +8,8 @@ title: Ideas
 
 Some ideas are mathematical. Some are pseudomathematical. All end with an "intersting" research question.
 
+***
+
 ### **Idea 1: When relaxation hurts (instead of helps)**
 `Post Date: 10/16/25`
 
