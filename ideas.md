@@ -29,4 +29,8 @@ Another valid relaxation is to *drop a constraint entirely* (e.g., remove $f_2(x
 
 Sometimes in life, we get to drop constraints. For example, this post was inspired by the problem of parking at UVM. I am a new faculty member, so I park **far** from my office in Billings. This is a hard constraint which causes me to "lose" a lot of time walking (or long boarding) across campus. For two+ years, I have looked forward to being elevated to a "green" parking permit, which will allow me to park right next to my office.
 
-Will a green permit make me happier? It will allow me to drop a constraint, so, mathematically, I will provaby be *at least as happy as I was before I was promoted to a green permit*. The proof is simple
+Will a green permit make me happier? It will allow me to drop a constraint, so, mathematically, I will provaby be *at least as happy as I was before I was promoted to a green permit*. The proof is simple: if parking near my office makes me *less* happy, then I can continue to park on the far side of campus.
+
+However, we all know this would never happen. The moment I receive the green permit, I will never walk across campus again. No more fun long board rides. No more scurrying main street with the undergrads. No more trudging through the ice and snow. These things are hard, and they do comsume a lot of time, but whether I admit it or not, they do make me happier. They improve my fitness, they get me out amoung the people, and they keep me "alive". 
+
+It seems, therefore, that dropping a constraint will make me less happy (i.e., it will raise my objective function, rather than lower it (low is better!)), but this is a paradox.
