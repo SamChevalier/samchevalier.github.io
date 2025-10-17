@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ideas
+title: Questions
 ---
 {% include mathjax-config.html %}
 
