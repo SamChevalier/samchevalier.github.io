@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "<strong>??</strong>"
+title: "???"
 ---
 {% include mathjax-config.html %}
 
