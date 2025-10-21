@@ -13,7 +13,9 @@ layout: default
 ***
 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
-`Post Date: 10/16/25`
+<details>
+<summary><code>Post Date: 10/16/25</code></summary>
+
 
 We call the problem
 
