@@ -10,7 +10,17 @@ layout: default
 * Some are pseudomathematical
 * All posts end with a specific research question.
 
+> My thinking: if I write down a sufficiently large number of research questions, eventually, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
+
 ***
+
+### **Question #2: Can we use physics to solve optimization problems?**
+<details>
+<summary><code>Post Date: 10/21/25</code></summary>
+
+</details>
+
+In
 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 <details>
@@ -46,3 +56,4 @@ To resolve my problem mathematically, I think I need to admit that there are "la
 `Research question: in single-operator/agent systems, when does mathematical relaxation (i.e., constraint dropping) lead to worse, and not better, system performance?`
 
 Here's to walking.
+</details>
