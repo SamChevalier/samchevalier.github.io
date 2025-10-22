@@ -1,5 +1,5 @@
 ---
-title: ...?!?
+title: dragons :dragon:
 layout: default
 ---
 {% include mathjax-config.html %}
@@ -14,13 +14,15 @@ layout: default
 
 ***
 
+:dragon:
+
 ### **Question #2: Can we use physics to solve optimization problems?**
 <details>
 <summary><code>Post Date: 10/21/25</code></summary>
 
 </details>
 
-In
+In graduate school, I took the graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equation  
 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 <details>
