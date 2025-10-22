@@ -1,16 +1,18 @@
 ---
-title: dragons :dragon:
+title: Dragons
 layout: default
 ---
 {% include mathjax-config.html %}
 
-# A running blog of questions. Established 10/25.
+# Here be dragons.
+
+A running blog of research questions. Established 10/25.
 
 * Some questions are mathematical
 * Some are pseudomathematical
-* All posts end with a specific research question.
+* All have some research value
 
-> My thinking: if I write down a sufficiently large number of research questions, eventually, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
+> My thinking is this: if I write down a sufficiently large number of research questions, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
 ***
 
