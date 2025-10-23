@@ -99,10 +99,12 @@ Here's to walking.
 
 I enjoy writing. I also enjoy exploring technical ideas. I think writing helps *flesh out* these ideas. It helps to concretize them, bring them into focus, and acknowledge their limitations. I especially like when these ideas are inspired by our daily, lived experiences. For example 
 
-* Luitzen Egbertus Jan Brouwer stirring his coffee, and 
-* Einstein's happiest thought
-* Leonhard Euler – Bridges of Königsberg
-* The apple falling on Newton's head
+* Luitzen Egbertus Jan Brouwer [stirring his coffee](https://sites.pitt.edu/~armin/publicdocs/Delta%20-%20Brouwer.pdf), and discovering the fixed point theorem
+* Einstein's [``happiest" thought](https://arxiv.org/pdf/2209.13781): realizing that falling and weightless are equivalent
+* Leonhard Euler trying to cross the [seven bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg) only once
+* James Clerk Maxwell thinking of electromagetism as a cascade of [mechanical gears](https://qstbb.pa.msu.edu/storage/new_ed/e_and_m/J-140_Maxwell_3_S4.html)
+* Stan Ulman using his experiences gambling and play cards to concoct the [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) method
+* The apple falling on Newton's head...
 
 LLMs do not, yet, have these daily lived experiences. Furthermore, there are open questions about how 
 
