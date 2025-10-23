@@ -25,6 +25,12 @@ This is a running blog of research questions which are at the limits of knowledg
 
 
 ### **Question #2: Can we use Lagrangian mechanics to simulate optimization problems?**
+
+In graduate school, I took a course 2 (MechE) graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
+
+Generally, there are two methods for deriving the equations of motion: a direct method (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). I
+
+
 <details>
 <summary><code>Post Date: 10/21/25</code></summary>
 
@@ -39,7 +45,6 @@ Generally, there are two methods for deriving the equations of motion: a direct 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 <details>
 <summary><code>Post Date: 10/16/25</code></summary>
-
 
 We call the problem
 
