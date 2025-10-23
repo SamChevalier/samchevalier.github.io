@@ -6,45 +6,38 @@ layout: default
 
 <h1>
     Here be dragons.
-  <img src="/photos/dragon.jpg" alt="logo" style="height:34px; vertical-align:middle; margin-left:10px;">
+  <img src="/photos/dragon.jpg" alt="logo" style="height:32px; vertical-align:middle; margin-left:10px;">
 </h1>
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
 During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running blog of research questions which are at the limits of knowledge.
+This is a running blog of research questions which are, somehow, at the limits of knowledge.
 
 * Some questions are mathematical
 * Some are pseudomathematical
 * All have some degree of research value
 
-> My thinking is this: if I write down a sufficiently large number of research questions, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
+> My thinking is this: if I write down a sufficiently large number of research questions, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). In the meantime, not every idea needs to be paper: some can be a blog post.
 
 ***
 
 
 <h3 style="font-weight:bold; margin-bottom:5px;">Question #2: Can we use Lagrangian mechanics to simulate optimization problems?</h3>
-
-### **Question #2: Can we use Lagrangian mechanics to simulate optimization problems?**
-
-In graduate school, I took a course 2 (MechE) graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
-
-Generally, there are two methods for deriving the equations of motion: a direct method (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). I
-
-
 <details markdown="1">
 <summary><code>Post Date: 10/23/25</code></summary>
 
-In graduate school, I took a course 2 (MechE) graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
+In graduate school, I took the Course 2 (MechE) graduate level dynamics class, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
 
-Generally, there are two methods for deriving the equations of motion: a direct method (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). I
+Generally, there are two methods for deriving the equations of motion. In the **direct** method, equations of motions are written down, well, directly (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). For complex dynamical systems, this method can become extremely hard, intractable even.
+
+The indirect method uses the Lagrangian ${\mathcal L}$, which captures the energy of the system in a single scalar function.  
 
 </details>
-
 <hr style="height:15px; visibility:hidden;" />
 
-### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
+<h3 style="font-weight:bold; margin-bottom:5px;">Question #1: When does constraint relaxation hurt (instead of help) your objective?</h3>
 <details markdown="1">
 <summary><code>Post Date: 10/16/25</code></summary>
 
