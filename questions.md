@@ -6,15 +6,15 @@ layout: default
 
 # Here be dragons. ![Alt text](/photos/dragon.jpg)
 
->"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or unexplored territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
+>"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
-During my PhD, I took a nonlinear dynamics course with Rodolfo Rosales. In this course, here started off by explaing that the world of linear dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions to their trajectories!). However, the world of non
+During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions to their trajectories!). However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-A running blog of research questions. Established 10/25.
+This is a running blog of research questions, which, somehow, are at the limits of what if know (in the scholarly fields I work in, anyways).
 
 * Some questions are mathematical
 * Some are pseudomathematical
-* All have some research value
+* All have some degree of research value
 
 > My thinking is this: if I write down a sufficiently large number of research questions, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
