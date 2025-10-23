@@ -6,14 +6,14 @@ layout: default
 
 <h1>
     Here be dragons.
-  <img src="/photos/dragon.jpg" alt="logo" style="height:30px; vertical-align:middle;">
+  <img src="/photos/dragon.jpg" alt="logo" style="height:34px; vertical-align:middle; margin-right:10px;">
 </h1>
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
-During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions to their trajectories!). However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
+During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions!). However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running blog of research questions which are at the limits of our knowledge.
+This is a running blog of research questions which are at the limits of knowledge.
 
 * Some questions are mathematical
 * Some are pseudomathematical
@@ -24,13 +24,14 @@ This is a running blog of research questions which are at the limits of our know
 ***
 
 
-### **Question #2: Can Lagrangian mechanics to solve optimization problems?**
+### **Question #2: Can we use Lagrangian mechanics to simulate optimization problems?**
 <details>
 <summary><code>Post Date: 10/21/25</code></summary>
 
+In graduate school, I took the graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion for various 
+
 </details>
 
-In graduate school, I took the graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equation  
 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 <details>
