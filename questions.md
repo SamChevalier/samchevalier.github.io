@@ -11,7 +11,7 @@ layout: default
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
-During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
+During my PhD, I audited nonlinear dynamics. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
 This is a running **blog** of research questions which are, somehow, at the limits of knowledge.
 
@@ -95,23 +95,22 @@ Here's to walking.
 <h3 style="font-weight:bold; margin-bottom:5px;">Question #0: LLMs are prolific. Why blog?</h3>
 <details markdown="1">
 <summary><code>Post Date: -Inf</code></summary>
-</details>
 
-I enjoy writing. I also enjoy exploring technical ideas. I think writing helps *flesh out* these ideas. It helps to concretize them, bring them into focus, and acknowledge their limitations. I especially like when these ideas are inspired by our daily, lived experiences. For example 
+I enjoy writing. I also enjoy exploring technical ideas. I think writing helps *flesh out* these ideas. It helps to concretize them, bring them into focus, and acknowledge their limitations. I especially like when ideas are inspired by our daily, lived experiences. Science is filled with examples of brilliant ideas that were inspired by the everyday happens of life. For example:
 
-* Luitzen Egbertus Jan Brouwer [stirring his coffee](https://sites.pitt.edu/~armin/publicdocs/Delta%20-%20Brouwer.pdf), and discovering the fixed point theorem
+* Luitzen Egbertus Jan Brouwer [stirring his coffee](https://sites.pitt.edu/~armin/publicdocs/Delta%20-%20Brouwer.pdf) and proposing his fixed point theorem
 * Einstein's [``happiest" thought](https://arxiv.org/pdf/2209.13781): realizing that falling and weightless are equivalent
 * Leonhard Euler trying to cross the [seven bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg) only once
-* James Clerk Maxwell thinking of electromagetism as a cascade of [mechanical gears](https://qstbb.pa.msu.edu/storage/new_ed/e_and_m/J-140_Maxwell_3_S4.html)
-* Stan Ulman using his experiences gambling and play cards to concoct the [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) method
-* The apple falling on Newton's head...
+* James Clerk Maxwell conceptualizing electromagetism via [mechanical gears](https://qstbb.pa.msu.edu/storage/new_ed/e_and_m/J-140_Maxwell_3_S4.html)
+* Terance Tao [rolling around on the floor](https://mathstodon.xyz/@tao/113465889558324816), with his eyes closed, to solve the  wave maps equation 
+* Stan Ulman using his experiences gambling and playing cards to concoct the [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) sampling method
+* The apple [falling on Newton's head](https://scottberkun.com/wp-content/uploads/2010/01/Newton_apple.jpg)...
 
-LLMs do not, yet, have these daily lived experiences. Furthermore, there are open questions about how 
+LLMs do not (yet) have these daily lived experiences. They can synthesize the discoveries of humans in beautiful ways, and they can even suggest some cool new ones, but they can't pole vault, they can't walk across campus, they can't stick their hand out a car window and feel their hand flutter in the wind...
 
-I have asked ChatGPT several of the questions I plan to blog about. In each case, it has something interesting to say, but it don
+So, I am blogging about ideas. Not in spite of LLMs, but because of them. With the amout of AI-assistance I receive in my daily life, I need clarity of thought more than ever before. And I need to make room for synthesizing the mathematical with the everday.
 
-
-So, I am blogging, not in spite of LLMs, but because of them. With the amout of AI-assistance I receive in my daily life, I need clarity of thought more than ever before. 
+</details>
 
 <p align="center">
   <img src="/photos/dragon.jpg" width="200">
