@@ -6,7 +6,7 @@ layout: default
 
 <h1>
     Here be dragons.
-  <img src="/photos/dragon.jpg" alt="logo" style="height:34px; vertical-align:middle; margin-right:10px;">
+  <img src="/photos/dragon.jpg" alt="logo" style="height:34px; vertical-align:middle; margin-left:10px;">
 </h1>
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
@@ -34,7 +34,7 @@ Generally, there are two methods for deriving the equations of motion: a direct 
 
 </details>
 
-<hr style="height:8px; visibility:hidden;" />
+<hr style="height:15px; visibility:hidden;" />
 
 ### **Question #1: When does constraint relaxation hurt (instead of help) your objective?**
 <details>
