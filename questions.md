@@ -10,7 +10,7 @@ layout: default
 
 During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions to their trajectories!). However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running blog of research questions, which, somehow, are at the limits of what if know (in the scholarly fields I work in, anyways).
+This is a running blog of research questions, which, somehow, are at the limits of our knowledge (in the scholarly fields I work in, anyways).
 
 * Some questions are mathematical
 * Some are pseudomathematical
