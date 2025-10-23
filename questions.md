@@ -24,6 +24,8 @@ This is a running blog of research questions which are at the limits of knowledg
 ***
 
 
+<h3 style="font-weight:bold; margin-bottom:5px;">Question #2: Can we use Lagrangian mechanics to simulate optimization problems?</h3>
+
 ### **Question #2: Can we use Lagrangian mechanics to simulate optimization problems?**
 
 In graduate school, I took a course 2 (MechE) graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
@@ -32,7 +34,7 @@ Generally, there are two methods for deriving the equations of motion: a direct 
 
 
 <details markdown="1">
-<summary><code>Post Date: 10/21/25</code></summary>
+<summary><code>Post Date: 10/23/25</code></summary>
 
 In graduate school, I took a course 2 (MechE) graduate level dynamics course, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
 
