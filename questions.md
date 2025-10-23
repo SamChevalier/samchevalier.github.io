@@ -13,7 +13,7 @@ layout: default
 
 During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running blog of research questions which are, somehow, at the limits of knowledge.
+This is a running **blog** of research questions which are, somehow, at the limits of knowledge.
 
 * Some questions are mathematical
 * Some are pseudomathematical
@@ -90,6 +90,26 @@ To resolve my problem mathematically, I think I need to admit that there are "la
 
 Here's to walking.
 </details>
+<hr style="height:15px; visibility:hidden;" />
+
+<h3 style="font-weight:bold; margin-bottom:5px;">Question #0: LLMs are prolific. Why blog?</h3>
+<details markdown="1">
+<summary><code>Post Date: -Inf</code></summary>
+</details>
+
+I enjoy writing. I also enjoy exploring technical ideas. I think writing helps *flesh out* these ideas. It helps to concretize them, bring them into focus, and acknowledge their limitations. I especially like when these ideas are inspired by our daily, lived experiences. For example 
+
+* Luitzen Egbertus Jan Brouwer stirring his coffee, and 
+* Einstein's happiest thought
+* Leonhard Euler – Bridges of Königsberg
+* The apple falling on Newton's head
+
+LLMs do not, yet, have these daily lived experiences. Furthermore, there are open questions about how 
+
+I have asked ChatGPT several of the questions I plan to blog about. In each case, it has something interesting to say, but it don
+
+
+So, I am blogging, not in spite of LLMs, but because of them. With the amout of AI-assistance I receive in my daily life, I need clarity of thought more than ever before. 
 
 <p align="center">
   <img src="/photos/dragon.jpg" width="200">
