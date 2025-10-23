@@ -4,13 +4,16 @@ layout: default
 ---
 {% include mathjax-config.html %}
 
-# Here be dragons. ![Alt text](/photos/dragon.jpg)
+<h1>
+    Here be dragons.
+  <img src="/photos/dragon.jpg" alt="logo" style="height:30px; vertical-align:middle;">
+</h1>
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
 During my PhD, I audited a nonlinear dynamics course with Rodolfo Rosales. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know (we even have analytical solutions to their trajectories!). However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running blog of research questions, which, somehow, are at the limits of our knowledge (in the scholarly fields I work in, anyways).
+This is a running blog of research questions which are at the limits of our knowledge.
 
 * Some questions are mathematical
 * Some are pseudomathematical
@@ -20,7 +23,6 @@ This is a running blog of research questions, which, somehow, are at the limits 
 
 ***
 
-:dragon:
 
 ### **Question #2: Can Lagrangian mechanics to solve optimization problems?**
 <details>
@@ -67,5 +69,5 @@ Here's to walking.
 </details>
 
 <p align="center">
-  <img src="/photos/dragon.jpg" width="250">
+  <img src="/photos/dragon.jpg" width="200">
 </p>
