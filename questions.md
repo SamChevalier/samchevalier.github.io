@@ -23,16 +23,35 @@ This is a running blog of research questions which are, somehow, at the limits o
 
 ***
 
+<h3 style="font-weight:bold; margin-bottom:5px;">Question #3: Does information propagate non-locally through a sparse graph?</h3>
+<details markdown="1">
+<summary><code>Post Date: 10/24/25</code></summary>
+
+</details>
+<hr style="height:15px; visibility:hidden;" />
+
 
 <h3 style="font-weight:bold; margin-bottom:5px;">Question #2: Can we use Lagrangian mechanics to simulate optimization problems?</h3>
 <details markdown="1">
 <summary><code>Post Date: 10/23/25</code></summary>
 
+This post is inspired by a problem: gradient-based methods tend to have a hard time solving some convex optimization problems. This is surprising: if you keep moving downhill, won't you just reach the bottom *eventually*? Maybe.
+
 In graduate school, I took the Course 2 (MechE) graduate level dynamics class, taught by Dr. Akylas. This course focused on mechanical dynamics, where we derove the equations of motion ($\dot x = f(x)$) for various mechanical systems: spinning tops, bouncing balls, vibrating strings, etc. 
 
 Generally, there are two methods for deriving the equations of motion. In the **direct** method, equations of motions are written down, well, directly (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). For complex dynamical systems, this method can become extremely hard, intractable even.
 
-The indirect method uses the Lagrangian ${\mathcal L}$, which captures the energy of the system in a single scalar function.  
+The indirect method uses the Lagrangian ${\mathcal L}=T-U$, which captures the energy of the system in a single scalar function. By then computing the partial derivative equation
+$$
+\begin{equation}
+\frac{d}{dt}\frac{d\mathcal{L}}{d\dot{x}}-\frac{d\mathcal{L}}{dx}=0,
+\end{equation}
+$$ 
+
+the equations of motion magically appear. This method is built on the **principle of least action**: in passing from one state to another, the integral of the kinetic energy must be least.
+
+Anyways, we can view an optimziation 
+
 
 </details>
 <hr style="height:15px; visibility:hidden;" />
