@@ -5,7 +5,7 @@ layout: default
 {% include mathjax-config.html %}
 
 <h1>
-    Here be dragons.
+    Optimization. Verification. Dynamics. Here be dragons.
   <img src="/photos/dragon.jpg" alt="logo" style="height:32px; vertical-align:middle; margin-left:10px;">
 </h1>
 
@@ -64,7 +64,8 @@ In graduate school, I took the Course 2 (MechE) graduate level dynamics class, t
 
 Generally, there are two methods for deriving the equations of motion. In the **direct** method, equations of motions are written down, well, directly (i.e., $m {\ddot x}=\sum f_i$ for translational systems, and $j {\ddot \theta}=\sum \tau_i$ for rotational systems). For complex dynamical systems, this method can become extremely hard, intractable even.
 
-The indirect method uses the Lagrangian ${\mathcal L}=T-U$, which captures the energy of the system in a single scalar function. By then computing the partial derivative equation
+The indirect method uses the **Lagrangian** ${\mathcal L}=T-U$, which captures the energy of the system in a single scalar function. By then computing the partial derivative equation
+
 $$
 \begin{equation}\label{eq:Lag_eqs}
 \frac{d}{dt}\frac{d\mathcal{L}}{d\dot{x}}-\frac{d\mathcal{L}}{dx}=0,
@@ -90,9 +91,9 @@ as a problem of simulating a dynamical system. In this system:
 * $g(x)$ and $h(x)$ represent hard constraints (e.g., crevasse walls)
 * $m{\ddot x}$ is the state's kinetic energy, where $m$ is some assigned mass
 
-Using \eqref{eq:Lag_eqs}, we can then simulate this system; by adding a little bit of friction, this system's final energy state should be the local minimum solution to the problem.
+Using \eqref{eq:Lag_eqs}, we can then simulate this system; by adding a little bit of friction, this system's final energy state should be the local minimum solution to the optimization problem.
 
-Now, I am not the first one to make this observation: this approach is popular in the Quantum world (see, for example, [Quantum Hamiltonian Descent (QHD)](https://arxiv.org/pdf/2303.01471)). However, my curiosity if a bit more pure: does direct CPU/GPU-based simulation of \eqref{eq:Lag_eqs} with e.g., foreward Euler, provide a reliable method of solving convex optimization problems? Nature is pretty good at solving equations of motion. Can we copy her?
+Now, I am not the first one to make this observation: this approach is popular in the Quantum world (see, for example, [Quantum Hamiltonian Descent (QHD)](https://arxiv.org/pdf/2303.01471)). However, my curiosity is a bit more pure: does direct CPU/GPU-based simulation of \eqref{eq:Lag_eqs} with e.g., foreward Euler, provide a reliable method of solving convex optimization problems? Nature is pretty good at solving equations of motion. Can we copy her and improve upon vanilla gradient descent/[PDHG](https://www.gurobi.com/resources/introducing-gurobis-first-gpu-accelerated-solver/?utm_source=linkedin&utm_medium=social&utm_content=blog)?
 
 
 </details>
