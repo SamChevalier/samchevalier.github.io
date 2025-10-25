@@ -11,13 +11,15 @@ layout: default
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
 
-During my PhD, I audited nonlinear dynamics. Dr. Rosales started the course by explaining that the world of **linear** dyanmical systems is fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
+During my PhD, I audited nonlinear dynamics. Dr. Rosales started the course by explaining that **linear** dyanmical systems are fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running **blog** of research questions which are at the limits of my own knowledge.
+This is a running **blog** of research questions, both mathematical and pseudomathematical, which are at the limits of my knowledge.
 
+<!--
 * Some questions are mathematical
 * Some are pseudomathematical
 * All are inspired by real life observations and hopefully have some degree of research value
+-->
 
 > My thinking is this: if I write down a sufficiently large number of research questions, a good one [**must** eventually emerge](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). In the meantime, not every idea needs to be paper: some can be a blog post.
 
@@ -49,6 +51,8 @@ This is a running **blog** of research questions which are at the limits of my o
 <h3 style="font-weight:bold; margin-bottom:5px;">Question #2: Can we use Lagrangian mechanics to simulate optimization problems?</h3>
 <details markdown="1">
 <summary><code>Post Date: 10/23/25</code></summary>
+
+**tl;dr**: Quantum people do this all the time.
 
 Drop a ping-pong ball into a mountain crevasse. It will ping-pong about until it reaches the bottom. And if we make some light convexity assumptions, it should reliably reach the true, actual bottom. 
 
