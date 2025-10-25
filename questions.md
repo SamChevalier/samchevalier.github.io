@@ -13,7 +13,7 @@ layout: default
 
 During my PhD, I audited nonlinear dynamics. Dr. Rosales started the course by explaining that **linear** dyanmical systems are fully explored: we know everything there is to know. However, the world of **nonlinear** dynamics is fairly unexplored: here be dragons.
 
-This is a running **blog** of research questions, both mathematical and pseudomathematical, which are at the limits of my knowledge.
+This is a running **blog** of research questions, both mathematical and pseudomathematical. <!--, which are at the limits of my knowledge. -->
 
 <!--
 * Some questions are mathematical
