@@ -4,9 +4,9 @@ layout: default
 ---
 {% include mathjax-config.html %}
 
-<h1>
-    Optimization. Verification. Dynamics. Here be dragons.
-  <img src="/photos/dragon.jpg" alt="logo" style="height:32px; vertical-align:middle; margin-left:10px;">
+<h1  align="center">
+    Optimization. Verification. Dynamics.<br>
+    Here be dragons. <img src="/photos/dragon.jpg" alt="logo" style="height:32px; vertical-align:middle; margin-left:10px;">
 </h1>
 
 >"[Here be dragons](https://en.wikipedia.org/wiki/Here_be_dragons)" is a phrase used to indicate dangerous or **unexplored** territories, in imitation of a medieval practice of putting illustrations of dragons, sea monsters and other mythological creatures on uncharted areas of maps where potential dangers were thought to exist.
