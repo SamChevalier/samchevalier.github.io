@@ -17,11 +17,11 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am a
 <hr style="height:10px; visibility:hidden;" />
 
 <details markdown="1">
-<summary><code>Lab News!</code></summary>
+<summary><b><code>Lab News!</code></b></summary>
 
-* **<code>10/27/25</code>:** Sam was highlighted in a [**UVM CEMS news story**](https://www.uvm.edu/cems/ebe/news/deploying-trustworthy-machine-learning-power-systems) about his NSF CAREER grant
-* **<code>10/15/25</code>:** Omid submitted his work on [**GPU-accelerated 3-phase network reduction**](https://arxiv.org/abs/2510.19608) to PSCC'26
-* **<code>10/15/25</code>:** Duncan, Sam, and LANL submitted their work on load shedding verification to PSCC'26
+* <code>10/27/25</code>: Sam was highlighted in a [**UVM CEMS news story**](https://www.uvm.edu/cems/ebe/news/deploying-trustworthy-machine-learning-power-systems) about his NSF CAREER grant
+* <code>10/15/25</code>: Omid submitted his work on [**GPU-accelerated 3-phase network reduction**](https://arxiv.org/abs/2510.19608) to PSCC'26
+* <code>10/15/25</code>: Duncan, Sam, and LANL submitted their work on load shedding verification to PSCC'26
 
 </details>
 
