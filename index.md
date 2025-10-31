@@ -7,8 +7,6 @@ layout: default
 ## **Greetings from Vermont!**
 My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am an assistant professor of [electrical engineering](https://www.win.tue.nl/~wscor/woeginger/P-versus-NP.htm) and an affiliate of the [Complex Systems Institutue](https://vermontcomplexsystems.org/) at the [University of Vermont](https://www.uvm.edu/cems/ebe) (my [Alma Mater](https://samchevalier.github.io/photos/uvm_igert.jpg)!) where I run the **Grid Verification** Lab. We focus on problems at the intersection power grid optimization and machine learning verification. Until fall of 2023, I was a [Marie Curie Postdoctoral Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2021) at the [Technical University of Denmark](https://www.cee.elektro.dtu.dk/) (DTU) with [Spyros Chatzivasileiadis](http://www.chatziva.com/). Prior to DTU, I recieved my PhD ('21) from the [mechanical engineering department at MIT](https://meche.mit.edu/). For more information, [<ins>**download my CV**</ins>](https://samchevalier.github.io/docs/Chevalier_CV.pdf).
 
-<hr style="height:10px; visibility:hidden;" />
-
 <img src="/photos/logo-ieee.svg" width="150" align="right" style="margin: 0px 0px 0px 25px">
 
 I am presently the chair of the [**Power and Energy Society (PES)**](https://site.ieee.org/gms-pes/) chapter of the [IEEE Green Mountain Section](https://site.ieee.org/gm/).
