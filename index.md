@@ -9,7 +9,7 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am a
 
 <img src="/photos/logo-ieee.svg" width="150" align="right" style="margin: 0px 0px 0px 25px">
 
-I am presently the chair of the [**Power and Energy Society (PES)**](https://site.ieee.org/gms-pes/) chapter of the [IEEE Green Mountain Section](https://site.ieee.org/gm/).
+I presently chair the [**Power and Energy Society (PES)**](https://site.ieee.org/gms-pes/) chapter of the [IEEE Green Mountain Section](https://site.ieee.org/gm/) (mainly Vermont). Join us!
 
 ### **Research themes**
 - designing industry-relevant **optimization & control** strategies for renewable-infused power grids<br/>
