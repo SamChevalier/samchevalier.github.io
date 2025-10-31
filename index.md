@@ -9,7 +9,7 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am a
 
 <hr style="height:10px; visibility:hidden;" />
 
-<img src="/photos/logo-ieee.svg" width="100" align="right" style="margin: 0px 25px 0px 0px">
+<img src="/photos/logo-ieee.svg" width="150" align="right" style="margin: 0px 0px 0px 25px">
 
 I am presently the chair of the [**Power and Energy Society (PES)**](https://site.ieee.org/gms-pes/) chapter of the [IEEE Green Mountain Section](https://site.ieee.org/gm/).
 
