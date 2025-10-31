@@ -9,6 +9,10 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am a
 
 <hr style="height:10px; visibility:hidden;" />
 
+<img src="/photos/logo-ieee.svg" width="100" align="right" style="margin: 0px 25px 0px 0px">
+
+I am presently the chair of the [**Power and Energy Society (PES)**](https://site.ieee.org/gms-pes/) chapter of the [IEEE Green Mountain Section](https://site.ieee.org/gm/).
+
 ### **Research themes**
 - designing industry-relevant **optimization & control** strategies for renewable-infused power grids<br/>
 - building **trustworthy machine learning** tools for safety-critical engineering applications<br/>
@@ -28,11 +32,11 @@ My name is [**Sam Chevalier**](https://samchevalier.github.io/redirect/). I am a
 <hr style="height:10px; visibility:hidden;" />
 
 ### **★ Lab Recruitment ★**
-In the fall of 2023, I launched my lab at UVM. I’m looking to build and maintain a strong team of fully funded mathematical innovators who are passionate about solving real-world (i) power grid, (ii) network optimization, and (iii) ML verification problems. If these topics excite you, reach out to me at **schevali [at] uvm.edu**. In your email, please include your CV along with a short explanation about why you are interested in doing a PhD in electrical engineering.
+In the fall of 2023, I launched my lab at UVM. I’m looking to build and maintain a strong team of fully funded mathematical innovators who are passionate about solving real-world (i) power grid, (ii) network optimization, and (iii) ML verification problems. If these topics excite you, reach out to me at **schevali [at] uvm.edu**.
  
 <hr style="height:10px; visibility:hidden;" />
 
-### **Sam's Education**
+### **Education**
 - Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2021). [**Thesis**](https://samchevalier.github.io/docs/chevalier-phd-meche-2021.pdf).
 - M.S. in Electrical Engineering, University of Vermont (2015 - 2016). [**Thesis**](https://samchevalier.github.io/docs/Chevalier_Thesis_Revision.pdf).
 - B.S. in Electrical Engineering, University of Vermont (2011 - 2015). [**Thesis**](https://samchevalier.github.io/photos/sam_pv.png).
