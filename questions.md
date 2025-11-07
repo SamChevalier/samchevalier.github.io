@@ -180,7 +180,9 @@ So, I am blogging about ideas. Not in spite of LLMs, but because of them. With t
 
 </details>
 
-<h3 style="font-weight:bold; margin-bottom:5px;"><p> &#9733;</p> Bonus <p> &#9733;</p></h3>
+<hr style="height:25px; visibility:hidden;" />
+
+<h3 style="font-weight:bold; margin-bottom:5px;">&#9733; Bonus &#9733;</h3>
 <details markdown="1">
 <summary><code>REU Research Ideas</code></summary>
 
@@ -188,8 +190,12 @@ So, I am blogging about ideas. Not in spite of LLMs, but because of them. With t
 * Investigate the uses of different [determinant cut configurations](https://arxiv.org/pdf/1910.03716) to globaly optimize OPF
 * Design a better [preconditioner](https://en.wikipedia.org/wiki/Preconditioner) for [primal-dual iterations of the AC-OPF problem](https://arxiv.org/pdf/2106.13909)
 * Test a [Graph Neural Network](https://hal.science/hal-02175989v1/file/Graph_Neural_Solver-7.pdf) where data flows in a [chordally complete](https://en.wikipedia.org/wiki/Chordal_graph) version (a la Cholesky) of the graph 
-* Can a rank-2 OPF relaxation
+* Most AC-OPF SDP relaxation solutions are rank 2. Use low-rank factorization of an SDP ([Burer–Monteiro formulation](https://frankong.com/blog/burer_monteiro.html)) to solve a globally optimal SDP problem.
 * Help build a Julia-JAX API in [MathOptAI](https://lanl-ansi.github.io/MathOptAI.jl/stable/) for neural network verification problems
+* Figure out how to elegantly run EMT simulations with [frequency-dependent line parameters](https://www.mathworks.com/help/sps/ug/frequency-dependent-transmission-line.html)
+* See if you can reconstruct the ERCOT grid from [public LMPs](https://www.ercot.com/content/cdr/contours/rtmLmp.html) and shadow prices.
+* Build an [optimal convex restriction](https://arxiv.org/pdf/1803.00818) of the OPF problem.
+* Find the [tightest LP relaxation](https://arxiv.org/pdf/2002.12920) of a ReLU-based NN. Can you get a tight solution withouht branching-and-bounding?
 
 </details>
 
