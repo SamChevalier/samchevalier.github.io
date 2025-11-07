@@ -195,7 +195,7 @@ So, I am blogging about ideas. Not in spite of LLMs, but because of them. With t
 * Figure out how to elegantly run EMT simulations with [frequency-dependent line parameters](https://www.mathworks.com/help/sps/ug/frequency-dependent-transmission-line.html)
 * See if you can reconstruct the ERCOT grid from [public LMPs](https://www.ercot.com/content/cdr/contours/rtmLmp.html) and shadow prices.
 * Build an [optimal convex restriction](https://arxiv.org/pdf/1803.00818) of the OPF problem.
-* Find the [tightest LP relaxation](https://arxiv.org/pdf/2002.12920) of a ReLU-based NN. Can you get a tight solution withouht branching-and-bounding?
+* Find the [tightest LP relaxation](https://arxiv.org/pdf/2002.12920) of a ReLU-based NN. Can you get a tight solution without branching-and-bounding?
 
 </details>
 
