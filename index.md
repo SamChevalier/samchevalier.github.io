@@ -21,8 +21,8 @@ I presently chair the [**Power and Energy Society (PES)**](https://site.ieee.org
 <details markdown="1">
 <summary><b><code>Lab News!</code></b></summary>
 
-* <code>11/17/25</code>: [Will](https://arxiv.org/abs/2511.13846) and [Eren](https://arxiv.org/abs/2511.15624) both submitted papers to the PESGM.
-* <code>11/13/25</code>: Will and Sam were invited to present [their recent work](https://arxiv.org/abs/2507.07850) at the [EIMC2 seminar series](https://www.rahmankhorramfar.com/eimc2-seminars) at MIT.
+* <code>11/17/25</code>: [**Will**](https://arxiv.org/abs/2511.13846) and [**Eren**](https://arxiv.org/abs/2511.15624) both submitted papers to the 2026 PESGM. Will's paper focuses on designing distribution transformer upgrade schedules; Eren's paper uses interval bound propagation to bound security-constrained OPF solutions.
+* <code>11/13/25</code>: Will and Sam were invited to present [their recent work](https://arxiv.org/abs/2507.07850) at the [**EIMC2 seminar series**](https://www.rahmankhorramfar.com/eimc2-seminars) at MIT. It was a tag-team presentation. Very fun!
 * <code>10/27/25</code>: Sam was highlighted in a [**UVM CEMS news story**](https://www.uvm.edu/cems/ebe/news/deploying-trustworthy-machine-learning-power-systems) about his NSF CAREER grant
 * <code>10/15/25</code>: Omid submitted his work on [**GPU-accelerated 3-phase network reduction**](https://arxiv.org/abs/2510.19608) to PSCC'26
 * <code>10/15/25</code>: Duncan, Sam, and LANL submitted their work on load shedding verification to PSCC'26
