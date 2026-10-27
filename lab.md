@@ -53,5 +53,7 @@ title: Lab
         {% endif %}
       </div>
     </div>
+    <br>
+    <hr>
   {% endfor %}
 </div>

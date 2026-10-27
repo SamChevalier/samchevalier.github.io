@@ -1,5 +1,10 @@
 # data/alumni.yml
+- name: Peter Fisher
+  bio: Peter graduated with his MS in EE from UVM in the spring of 2026. He now works at <strong>Vrinda Energy</strong> as a business analyst.
+  contact: Peter.A.Fisher@uvm.edu
+  img: photos/peter.jpeg 
+
 - name: Muhammad Adeel Arif
   img: photos/adeel.jpeg
-  bio: Adeel graduated with his MS in Electrical Engineering from UVM in the spring of 2025. He now works at <strong>Dominion Energy</strong> as a DERMS engineer.
+  bio: Adeel graduated with his MS in EE from UVM in the spring of 2025. He now works at <strong>Dominion Energy</strong> as a DERMS engineer.
   contact: adeelarif.vt@gmail.com

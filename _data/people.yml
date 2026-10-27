@@ -4,9 +4,15 @@
   contact: Samuel.Chevalier@uvm.edu
   img: photos/sam.jpg
 
+- name: Erik Lagerquist
+  role: MS Student since 2026
+  bio: Identifying the smallest adversarial attacks on voltage stability 
+  contact: Erik.Lagerquist@uvm.edu
+  img: photos/erik.jpeg
+
 - name: Ben Drillings
   role: PhD Student since 2025 (Co-Advised with Amrit Pandey)
-  bio: GPU-based global optimization methods; rural electrifictaion 
+  bio: GPU-based global optimization methods; rural electrification 
   contact: Benjamin.Drillings@uvm.edu
   img: photos/ben.jpeg
 
@@ -21,12 +27,6 @@
   bio: Neural network verification
   contact: Eren.Tekeler@uvm.edu
   img: photos/eren.jpeg
-
-- name: Peter Fisher
-  role: MS Student since 2024
-  bio: Distribution grid resilience
-  contact: Peter.A.Fisher@uvm.edu
-  img: photos/peter.jpeg
 
 - name: Duncan Starkenburg
   role: Undergraduate Researcher since 2024

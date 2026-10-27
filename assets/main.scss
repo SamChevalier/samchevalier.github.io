@@ -1,0 +1,36 @@
+---
+# Overrides minima's stylesheet; keep the import first.
+---
+
+@import "minima";
+
+// Homepage "Lab research" outline
+#research-questions {
+  margin-bottom: 4px;
+}
+
+.lab-tagline {
+  margin-bottom: 4px;
+}
+
+.arrow-list {
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 4px;
+  }
+
+  li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #e4572e;
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1.25; // 1.2em × 1.25 = the list's 1.5 line height
+    -webkit-text-stroke: .07em currentColor; // thin glyphs ignore font-weight
+  }
+}
